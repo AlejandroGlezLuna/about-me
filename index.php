@@ -328,7 +328,7 @@
         <div class="contact-bottom">
             <div class="contact-bottom-item name">
                 <p>
-                    <span>Alex Glez Luna </span><br class="break">| ©2022 Todos los derechos reservados
+                    <span>Alex Luna </span><br class="break">| ©2022 Todos los derechos reservados
                 </p>
             </div>
             <div class="contact-bottom-item sign">
